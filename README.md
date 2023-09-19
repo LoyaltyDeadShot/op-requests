@@ -1,11 +1,14 @@
 
 <h1 align="center"><img src="https://i.imgur.com/59swfgh.png" width="48px" height="auto"> OP-REQUESTS - Fivem Requests system</h1>
 
-###### Join Our Discord!!!
+# Join Our Discord TO Download THE FILE!!!
+https://discord.gg/otherplanet
+
+###### On Discord you'll find:
 > 🛠 Fast Support <br>
 > 📥 Report Bugs <br>
 > 🗒 Chat with our Community!
-<a href="https://discord.gg/bagieta">
+<a href="https://discord.gg/otherplanet">
 <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sd0ac3cec7e1354b8/image/i9a5907048ddc7a76/version/1505635416/image.png" width="50%" height="auto">
 </a>
 
