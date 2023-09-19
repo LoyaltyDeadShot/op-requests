@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://i.imgur.com/59swfgh.png" width="48px" height="auto"> OP-REQUESTS - Fivem Requests system</h1>
 
-# Join Our Discord TO Download THE FILE!!!
+# Join Our Discord To Download OP-REQUESTS!!!
 https://discord.gg/otherplanet
 
 ###### On Discord you'll find:
